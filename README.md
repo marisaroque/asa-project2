@@ -27,47 +27,47 @@ Examples
 
 - Input 1<br/>
 
-4 4<br/>
-0 2<br/>
-0 3<br/>
-1 2 <br/>
-1 3 <br/>
-2 <br/>
-2 0 1 <br/>
-2 0 2 <br/>
+  4 4<br/>
+  0 2<br/>
+  0 3<br/>
+  1 2 <br/>
+  1 3 <br/>
+  2 <br/>
+  2 0 1 <br/>
+  2 0 2 <br/>
 
 
 - Output 1<br/>
 
-2 <br/>
-2 <br/>
+  2 <br/>
+  2 <br/>
 
 - Input 2<br/>
 
-5 5<br/> 
-0 2 <br/>
-0 3 <br/>
-1 2 <br/>
-1 3 <br/>
-0 4 <br/>
-1 <br/>
-3 0 1 4 <br/>
+  5 5<br/> 
+  0 2 <br/>
+  0 3 <br/>
+  1 2 <br/>
+  1 3 <br/>
+  0 4 <br/>
+  1 <br/>
+  3 0 1 4 <br/>
 
 - Output 2<br/>
 
-1 <br/>
+  1 <br/>
 
 - Input 3
 
-6 4 <br/>
-0 4 <br/>
-0 5 <br/>
-1 4 <br/>
-1 5 <br/>
-1 <br/>
-2 0 1 <br/>
+  6 4 <br/>
+  0 4 <br/>
+  0 5 <br/>
+  1 4 <br/>
+  1 5 <br/>
+  1 <br/>
+  2 0 1 <br/>
 
 - Output 3<br/>
 
-2 <br/>
+  2 <br/>
 
