@@ -24,46 +24,50 @@ Para cada caso de testes o output deve consistir em h linhas, cada uma com apena
 
 Examples
 -
-Input 1
 
-4 4 
-0 2 
-0 3 
-1 2 
-1 3 
-2 
-2 0 1 
-2 0 2 
+- Input 1<br/>
 
-Output 1
+4 4<br/>
+0 2<br/>
+0 3<br/>
+1 2 <br/>
+1 3 <br/>
+2 <br/>
+2 0 1 <br/>
+2 0 2 <br/>
 
-2 
-2 
 
-Input 2
-5 5 
-0 2 
-0 3 
-1 2 
-1 3 
-0 4 
-1 
-3 0 1 4 
+- Output 1<br/>
 
-Output 2
+2 <br/>
+2 <br/>
 
-1 
+- Input 2<br/>
 
-Input 3
-6 4 
-0 4 
-0 5 
-1 4 
-1 5 
-1 
-2 0 1 
+5 5<br/> 
+0 2 <br/>
+0 3 <br/>
+1 2 <br/>
+1 3 <br/>
+0 4 <br/>
+1 <br/>
+3 0 1 4 <br/>
 
-Output 3
+- Output 2<br/>
 
-2 
+1 <br/>
+
+- Input 3
+
+6 4 <br/>
+0 4 <br/>
+0 5 <br/>
+1 4 <br/>
+1 5 <br/>
+1 <br/>
+2 0 1 <br/>
+
+- Output 3<br/>
+
+2 <br/>
 
